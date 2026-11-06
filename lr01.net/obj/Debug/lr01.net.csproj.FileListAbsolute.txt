@@ -1,0 +1,14 @@
+C:\Users\neuaz\source\repos\lr01.net\lr01.net\bin\Debug\lr01.net.exe.config
+C:\Users\neuaz\source\repos\lr01.net\lr01.net\bin\Debug\lr01.net.exe
+C:\Users\neuaz\source\repos\lr01.net\lr01.net\bin\Debug\lr01.net.pdb
+C:\Users\neuaz\source\repos\lr01.net\lr01.net\obj\Debug\lr01.net.csproj.AssemblyReference.cache
+C:\Users\neuaz\source\repos\lr01.net\lr01.net\obj\Debug\lr01.net.Properties.Resources.resources
+C:\Users\neuaz\source\repos\lr01.net\lr01.net\obj\Debug\lr01.net.csproj.GenerateResource.cache
+C:\Users\neuaz\source\repos\lr01.net\lr01.net\obj\Debug\lr01.net.csproj.CoreCompileInputs.cache
+C:\Users\neuaz\source\repos\lr01.net\lr01.net\obj\Debug\lr01.net.exe
+C:\Users\neuaz\source\repos\lr01.net\lr01.net\obj\Debug\lr01.net.pdb
+C:\Users\neuaz\source\repos\lr01.net\lr01.net\obj\Debug\lr01.net.exe.config
+C:\Users\neuaz\source\repos\lr01.net\lr01.net\obj\Debug\lr01.net.Form1.resources
+C:\Users\neuaz\source\repos\lr01.net\lr01.net\obj\Debug\lr01.net.Form2.resources
+C:\Users\neuaz\source\repos\lr01.net\lr01.net\obj\Debug\lr01.net.Form3.resources
+C:\Users\neuaz\source\repos\lr01.net\lr01.net\obj\Debug\lr01.net.UnitTest.resources
